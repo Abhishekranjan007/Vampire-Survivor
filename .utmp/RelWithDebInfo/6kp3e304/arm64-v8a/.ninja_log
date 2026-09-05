@@ -1,0 +1,12 @@
+# ninja log v5
+196	2541	8080456687253047	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	79ca9a588b401471
+2548	5832	8080456712344080	D:/Unity/Portfolio Project/VampireSurvivor/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6kp3e304/obj/arm64-v8a/libswappywrapper.so	7396854c8b4033ed
+126	8515	8080456747623761	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	6bc74e2c812121f
+66	8716	8080456748883366	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	f6c6c0eb09ea2edc
+2	8778	8080456750087456	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	fea0e5a5236a8556
+149	8895	8080456750918971	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	f8a69db0b09eccec
+25	9091	8080456753433089	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	9e64b852d8b53a35
+174	9446	8080456757071941	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	a5d7d603b74e6159
+106	9554	8080456758115463	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	2f3a7abed6b37cf8
+44	9739	8080456760042839	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	a5367c5f8b81204d
+9739	9900	8080456761734237	D:/Unity/Portfolio Project/VampireSurvivor/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6kp3e304/obj/arm64-v8a/libgame.so	a2befb666efba3d2
